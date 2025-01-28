@@ -11,5 +11,3 @@ hybridization between plants of the monoecious and dioecious clades of genus, Am
 
 Riya is an avid runner and swimmer. They are currently training for the United Half Marathon. Outside of running 
 and swimming they also dabble in basketball.   
-   
-theme: jekyll-theme-minimal
