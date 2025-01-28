@@ -1,6 +1,6 @@
-# riya2serve.github.io
-Hello and welcome!
+# Welcome
 
+### About Me
 Riya R. is a Master's student at Columbia University's Ecology, Evolution, and Conservation Biology (E3B). Prior
 to doing their Master's at Columbia, they recieved their B.S. in Environmental Science from Mills College, Oakland,
 California. 
