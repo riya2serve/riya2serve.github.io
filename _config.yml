@@ -1,3 +1,5 @@
 theme: minima
 title: My GitHub Page
 description: A simple website using a template Jekyll theme
+plugins:
+  - jekyll-tabs
