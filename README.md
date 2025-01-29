@@ -1,4 +1,3 @@
-## About Me 
 ### Past
 Riya was raised in Northern California. From August 2018 - May 2022 they attended Mills College, a women's centric liberal arts college, formerly based in Oakland California. While at Mills they earned their B.S. in Environmental Science and were involved with numerous campus clubs and research programs. Their research involvement in the final year of undergrad was arguably the most foundational, as it inspired them to puruse further studies in the evolution of social behaviors, phenotypic-, and genotypic- traits in both animals and plants.
 
