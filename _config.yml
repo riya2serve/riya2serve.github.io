@@ -1,5 +1,4 @@
 theme: minima
-title: Riya Rampalli
-description: A simple website using a template Jekyll theme
+description: Powered by GitHub
 plugins:
   - jekyll-tabs
