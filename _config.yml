@@ -2,3 +2,8 @@ theme: minima
 description: Powered by GitHub
 plugins:
   - jekyll-tabs
+
+#enable navigation links
+header_pages:
+  - index.md
+  - projects.md
