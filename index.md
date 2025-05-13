@@ -1,10 +1,10 @@
 ---
-layout: about
+layout: profile
 permalink: /
+published: true
 profile:
   align: right
   image: profile.png
-published: true
 ---
 Hello, welcome to my page! 
 
