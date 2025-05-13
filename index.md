@@ -6,8 +6,14 @@ profile:
   image: profile.png
 published: true
 ---
+Hello, welcome to my page! 
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+I'm Riya, a 1st year MA candidate in Columbia University's Ecology, Evolution, and Environmental Biology (E3B) department. I study hybrids, to understand how genomic architecture and conflict contribute to inviability and developmental failure. Though my current research involves plants (*Amaranthus*), I am interested in studying these phenomena in various model systems.
+
+🔬 Check out my toolkit: [Distortopia](https://github.com/riya2serve/Distortopia)  
+📄 [View my CV](cv)  
+📫 [Email me](mailto:rr3491@columbia.edu)
+
 
 If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
 
