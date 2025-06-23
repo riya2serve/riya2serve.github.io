@@ -6,7 +6,7 @@ description: MA Student | E3B, Columbia University
 baseurl: / #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: rr3491@columbia.edu
-linkedin: riya-rampalli-162433170
+linkedin: https://www.linkedin.com/in/riya-rampalli-162433170 
 github: riya2serve
 
 # Pagination
