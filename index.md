@@ -1,5 +1,5 @@
 ---
-layout: profile
+layout: about
 permalink: /
 published: true
 profile:
