@@ -18,5 +18,5 @@ is focused on investigating the genetic architecture of reproductive incompatibi
 te in Columbia University's Ecology, Evolution, and Environmental Biology (E3B) department. I study hybrids, to understand how genomic architecture and conflict contribute to inviability and developmental failure. Though my current research involves plants (*Amaranthus*), I am interested in studying these phenomena in various model systems.
 
 🔬 Check out my toolkit: [Distortopia](https://github.com/riya2serve/Distortopia)  
-📄 [View my CV](/assets/cv.pdf) 
+📄 [View my CV](/assets/RiyaResume_PDF_11Nov25.pdf) 
 📫 [Email me](mailto:rr3491@columbia.edu)
